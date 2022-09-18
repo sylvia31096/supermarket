@@ -1,1 +1,8 @@
 mkt-env/
+node_modules/
+package-lock.json
+supermarket.code-workspace
+notebooks/.ipynb_checkpoints/
+scripts/.ipynb_checkpoints/
+.gitignore
+data/
